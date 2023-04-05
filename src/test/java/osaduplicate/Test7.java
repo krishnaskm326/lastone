@@ -1,9 +1,9 @@
 package osaduplicate;
 
-public class Test6 {
+public class Test7 {
 
 	public static void main(String[] args) {
-		System.out.println("test6.. aney");
+		// TODO Auto-generated method stub
 
 	}
 
