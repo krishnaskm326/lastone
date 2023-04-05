@@ -12,7 +12,7 @@ public class Example2Test {
 	}
 	@Test(groups = "regression")
 	public void data2() {
-		System.out.println("regression 2 executed by aney");
+		System.out.println("aney");
 	}
 	
 }
