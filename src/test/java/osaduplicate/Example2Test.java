@@ -8,7 +8,7 @@ public class Example2Test {
 
 	@Test(groups = "smoke")
 	public void data1() {
-		System.out.println(" alwin");
+		System.out.println("   alwin");
 	}
 	@Test(groups = "regression")
 	public void data2() {
